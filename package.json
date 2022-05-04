@@ -8,6 +8,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "axios": "^0.27.2",
+    "browserify": "^17.0.0",
+    "iconsax": "^0.0.1",
     "vue": "^3.2.25"
   },
   "devDependencies": {

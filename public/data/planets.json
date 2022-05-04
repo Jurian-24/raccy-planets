@@ -1,0 +1,38 @@
+[ 
+    {
+        "id": 0,
+        "planetName": "Mercury"
+    },
+    {
+        "id": 1,
+        "planetName": "Venus"
+    },
+    {
+        "id": 2,
+        "planetName": "Earth"
+    },
+    {
+        "id": 3,
+        "planetName": "Mars"
+    },
+    {
+        "id": 4,
+        "planetName": "Jupiter"
+    },
+    {
+        "id": 5,
+        "planetName": "Saturn"
+    },
+    {
+        "id": 6,
+        "planetName": "Uranus"
+    },
+    {
+        "id": 7,
+        "planetName": "Neptune"
+    },
+    {
+        "id": 8,
+        "planetName": "Pluto"
+    }  
+]
