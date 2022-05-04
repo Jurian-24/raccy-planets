@@ -11,7 +11,8 @@
     "axios": "^0.27.2",
     "browserify": "^17.0.0",
     "iconsax": "^0.0.1",
-    "vue": "^3.2.25"
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.15"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^2.3.1",
