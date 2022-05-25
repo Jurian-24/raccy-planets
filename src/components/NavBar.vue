@@ -4,12 +4,16 @@
               bg-gray-900 text-white shadow-lg"
         
     >
-        <SideBarIcon
+        <router-link
             v-for="planet in planets"
             :key="planet.id"
+            :to="{ name: 'PlanetPage', params: { planetName: planet.planetName } }"
+        >
+        <SideBarIcon
             :planetName="planet.planetName"
         >
         </SideBarIcon>
+        </router-link>
         
     </div>
     

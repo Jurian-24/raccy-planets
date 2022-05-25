@@ -1,11 +1,11 @@
 import { createWebHistory, createRouter } from "vue-router";
-import MercuryPage from '../pages/Mercury.vue'
+import PlanetPage from '../pages/PlanetPage.vue'
 
 const routes = [
     {
-        path: "/mercury",
-        name: "mercuryPage",
-        component: MercuryPage,
+        path: "/planet/:planetName",
+        name: "PlanetPage",
+        component: PlanetPage,
     },
 ];
 
