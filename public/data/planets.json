@@ -1,38 +1,148 @@
 [ 
     {
         "id": 0,
-        "planetName": "Mercury"
+        "planetName": "Mercury",
+        "data": {
+            "composition": {
+                "Oxygen": "42",
+                "Sodium": "29",
+                "Hydrogen": "22",
+                "Helium": "6",
+                "Potassium": "0.5"
+            },
+            "temperature": "430",
+            "orbitPeriod": "88",
+            "volumeInEarths": "0.055",
+            "radius": "2439,7",
+            "massInEarth": "0,055"
+        }
     },
     {
         "id": 1,
-        "planetName": "Venus"
+        "planetName": "Venus",
+        "data": {
+            "composition": {
+                "Carbon Dioxide": "95",
+                "Nitrogen": "3.5"
+            },
+            "temperature": "475",
+            "orbitPeriod": "225",
+            "volumeInEarths": "18 earths",
+            "radius": "6051,8",
+            "massInEarth": "0,815"
+        }
     },
     {
         "id": 2,
-        "planetName": "Earth"
+        "planetName": "Earth",
+        "data": {
+            "composition": {
+                "Nitrogen": "78",
+                "Oxygen": "21",
+                "Argon": "0.9"
+            },
+            "temperature": "13.9",
+            "orbitPeriod": "365",
+            "volumeInEarths": "1",
+            "radius": "6371",
+            "massInEarth": "1"
+        }
     },
     {
         "id": 3,
-        "planetName": "Mars"
+        "planetName": "Mars",
+        "data": {
+            "composition": {
+                "Carbon Dioxide": "95",
+                "Molecular Nitrogen": "2.6",
+                "Argon": "1.9",
+                "Molecular Oxygen": "0.16",
+                "Carbon Monoxide": "0.06"
+            },
+            "temperature": "-60",
+            "orbitPeriod": "687",
+            "volumeInEarths": "0.5",
+            "radius": "3389,5",
+            "massInEarth": "0.107"
+        }
     },
     {
         "id": 4,
-        "planetName": "Jupiter"
+        "planetName": "Jupiter",
+        "data": {
+            "composition": {
+                "Hydrogen": "74",
+                "Helium": "24",
+                "Others": "5"
+                
+            },
+            "temperature": "-110",
+            "orbitPeriod": "12 years",
+            "volumeInEarths": "11",
+            "radius": "69911",
+            "massInEarth": "317.8"
+        }
     },
     {
         "id": 5,
-        "planetName": "Saturn"
+        "planetName": "Saturn",
+        "data": {
+            "composition": {
+                "Hydrogen": "75",
+                "Helium": "25"    
+            },
+            "temperature": "-140",
+            "orbitPeriod": "29 years",
+            "volumeInEarths": "9",
+            "radius": "58232",
+            "massInEarth": "95"
+        }
     },
     {
         "id": 6,
-        "planetName": "Uranus"
+        "planetName": "Uranus",
+        "data": {
+            "composition": {
+                "Hydrogen": "82.5",
+                "Helium": "15.2",
+                "Methane": "2.3"    
+            },
+            "temperature": "-195",
+            "orbitPeriod": "84 years",
+            "volumeInEarths": "63",
+            "radius": "25362",
+            "massInEarth": "14.54"
+        }
     },
     {
         "id": 7,
-        "planetName": "Neptune"
+        "planetName": "Neptune",
+        "data": {
+            "composition": {
+                "Hydrogen": "80",
+                "Helium": "19",
+                "Methane": "1.5"
+            },
+            "temperature": "-200",
+            "orbitPeriod": "165 years",
+            "volumeInEarths": "58",
+            "radius": "24622",
+            "massInEarth": "17"
+        }
     },
     {
         "id": 8,
-        "planetName": "Pluto"
+        "planetName": "Pluto",
+        "data": {
+            "composition": {
+                "Nitrogen": "90",
+                "Other": "10"    
+            },
+            "temperature": "-240",
+            "orbitPeriod": "248 years",
+            "volumeInEarths": "0.702",
+            "radius": "1188.3",
+            "massInEarth": "0.01303"
+        }
     }  
 ]
