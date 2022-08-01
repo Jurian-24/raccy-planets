@@ -24,3 +24,14 @@
             transition-all duration-100 scale-0 origin-left;
     }
 }
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 0.5s ease;
+}
+
+
+.fade-enter-from,
+.fade-leave-to {
+  opacity: 0;
+}

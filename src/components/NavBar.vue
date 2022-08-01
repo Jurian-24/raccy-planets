@@ -1,17 +1,22 @@
 <template>
-    <div  class="fixed top-0 left-0 h-screen w-16 m-0 
+    <div class="fixed top-0 left-0 h-screen w-16 m-0 
                 flex flex-col 
               bg-gray-900 text-white shadow-lg"
         
     >
-        <SideBarIcon
+        <router-link
             v-for="planet in planets"
             :key="planet.id"
+            :to="{ name: 'PlanetPage', params: { planetName: planet.planetName } }"
+        >
+        <SideBarIcon
             :planetName="planet.planetName"
         >
-        {{planet.planetName}}
         </SideBarIcon>
+        </router-link>
+        
     </div>
+    
 </template>
 
 <script>
