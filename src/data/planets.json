@@ -1,0 +1,166 @@
+[
+    {
+        "id": 0,
+        "planetName": "Mercury",
+        "data": {
+            "composition": {
+                "Oxygen": "42",
+                "Sodium": "29",
+                "Hydrogen": "22",
+                "Helium": "6",
+                "Potassium": "0.5"
+            },
+            "temperature": "430",
+            "orbitPeriod": "88",
+            "volumeInEarths": "0.055",
+            "radius": "2439,7",
+            "massInEarth": "0,055"
+        },
+        "shortInfoColor": "#98989C",
+        "longInfoColor": "#A9A9AF"
+    },
+    {
+        "id": 1,
+        "planetName": "Venus",
+        "data": {
+            "composition": {
+                "Carbon Dioxide": "95",
+                "Nitrogen": "3.5"
+            },
+            "temperature": "475",
+            "orbitPeriod": "225",
+            "volumeInEarths": "18 earths",
+            "radius": "6051,8",
+            "massInEarth": "0,815"
+        },
+        "shortInfoColor": "#CCCC99",
+        "longInfoColor": "#D4AF37"
+    },
+    {
+        "id": 2,
+        "planetName": "Earth",
+        "data": {
+            "composition": {
+                "Nitrogen": "78",
+                "Oxygen": "21",
+                "Argon": "0.9"
+            },
+            "temperature": "13.9",
+            "orbitPeriod": "365",
+            "volumeInEarths": "1",
+            "radius": "6371",
+            "massInEarth": "1"
+        },
+        "shortInfoColor": "#008000",
+        "longInfoColor": "#1E90FF"
+    },
+    {
+        "id": 3,
+        "planetName": "Mars",
+        "data": {
+            "composition": {
+                "Carbon Dioxide": "95",
+                "Molecular Nitrogen": "2.6",
+                "Argon": "1.9",
+                "Molecular Oxygen": "0.16",
+                "Carbon Monoxide": "0.06"
+            },
+            "temperature": "-60",
+            "orbitPeriod": "687",
+            "volumeInEarths": "0.5",
+            "radius": "3389,5",
+            "massInEarth": "0.107"
+        },
+        "shortInfoColor": "#FF6347",
+        "longInfoColor": "#D2B48C"
+    },
+    {
+        "id": 4,
+        "planetName": "Jupiter",
+        "data": {
+            "composition": {
+                "Hydrogen": "74",
+                "Helium": "24",
+                "Others": "5"
+
+            },
+            "temperature": "-110",
+            "orbitPeriod": "12 years",
+            "volumeInEarths": "11",
+            "radius": "69911",
+            "massInEarth": "317.8"
+        },
+        "shortInfoColor": "#FFD700",
+        "longInfoColor": "#C0C0C0"
+    },
+    {
+        "id": 5,
+        "planetName": "Saturn",
+        "data": {
+            "composition": {
+                "Hydrogen": "75",
+                "Helium": "25"
+            },
+            "temperature": "-140",
+            "orbitPeriod": "29 years",
+            "volumeInEarths": "9",
+            "radius": "58232",
+            "massInEarth": "95"
+        },
+        "shortInfoColor": "#D2B48C",
+        "longInfoColor": "#E6E8FA"
+    },
+    {
+        "id": 6,
+        "planetName": "Uranus",
+        "data": {
+            "composition": {
+                "Hydrogen": "82.5",
+                "Helium": "15.2",
+                "Methane": "2.3"
+            },
+            "temperature": "-195",
+            "orbitPeriod": "84 years",
+            "volumeInEarths": "63",
+            "radius": "25362",
+            "massInEarth": "14.54"
+        },
+        "shortInfoColor": "#4682B4",
+        "longInfoColor": "#00FFFF"
+    },
+    {
+        "id": 7,
+        "planetName": "Neptune",
+        "data": {
+            "composition": {
+                "Hydrogen": "80",
+                "Helium": "19",
+                "Methane": "1.5"
+            },
+            "temperature": "-200",
+            "orbitPeriod": "165 years",
+            "volumeInEarths": "58",
+            "radius": "24622",
+            "massInEarth": "17"
+        },
+        "shortInfoColor": "#00008B",
+        "longInfoColor": "#7FFFD4"
+    },
+    {
+        "id": 8,
+        "planetName": "Pluto",
+        "data": {
+            "composition": {
+                "Nitrogen": "90",
+                "Other": "10"
+            },
+            "temperature": "-240",
+            "orbitPeriod": "248 years",
+            "volumeInEarths": "0.702",
+            "radius": "1188.3",
+            "massInEarth": "0.01303"
+        },
+        "shortInfoColor": "#8B4513",
+        "longInfoColor": "#A52A2A"
+    }
+]

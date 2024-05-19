@@ -1,6 +1,6 @@
 <template>
-    <div class="sidebar-icon group">
-        <img v-bind:src="'/assets/planets/icons/' + planetName + '-icon.svg'"  alt="planet">
+    <div class="sidebar-icon group w-16 my-4">
+        <img v-bind:src="'/assets/planets/icons/' + planetName + '-icon.svg'"  alt="planet" class="object-fill">
 
         <span class="sidebar-tooltip group-hover:scale-100">
             {{planetName}}

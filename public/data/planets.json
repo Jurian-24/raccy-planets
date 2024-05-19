@@ -1,4 +1,4 @@
-[ 
+[
     {
         "id": 0,
         "planetName": "Mercury",
@@ -15,7 +15,9 @@
             "volumeInEarths": "0.055",
             "radius": "2439,7",
             "massInEarth": "0,055"
-        }
+        },
+        "shortInfoColor": "#98989C",
+        "longInfoColor": "#A9A9AF"
     },
     {
         "id": 1,
@@ -30,7 +32,9 @@
             "volumeInEarths": "18 earths",
             "radius": "6051,8",
             "massInEarth": "0,815"
-        }
+        },
+        "shortInfoColor": "#CCCC99",
+        "longInfoColor": "#D4AF37"
     },
     {
         "id": 2,
@@ -46,7 +50,9 @@
             "volumeInEarths": "1",
             "radius": "6371",
             "massInEarth": "1"
-        }
+        },
+        "shortInfoColor": "#008000",
+        "longInfoColor": "#1E90FF"
     },
     {
         "id": 3,
@@ -64,7 +70,9 @@
             "volumeInEarths": "0.5",
             "radius": "3389,5",
             "massInEarth": "0.107"
-        }
+        },
+        "shortInfoColor": "#FF6347",
+        "longInfoColor": "#D2B48C"
     },
     {
         "id": 4,
@@ -74,14 +82,16 @@
                 "Hydrogen": "74",
                 "Helium": "24",
                 "Others": "5"
-                
+
             },
             "temperature": "-110",
             "orbitPeriod": "12 years",
             "volumeInEarths": "11",
             "radius": "69911",
             "massInEarth": "317.8"
-        }
+        },
+        "shortInfoColor": "#FFD700",
+        "longInfoColor": "#C0C0C0"
     },
     {
         "id": 5,
@@ -89,14 +99,16 @@
         "data": {
             "composition": {
                 "Hydrogen": "75",
-                "Helium": "25"    
+                "Helium": "25"
             },
             "temperature": "-140",
             "orbitPeriod": "29 years",
             "volumeInEarths": "9",
             "radius": "58232",
             "massInEarth": "95"
-        }
+        },
+        "shortInfoColor": "#D2B48C",
+        "longInfoColor": "#E6E8FA"
     },
     {
         "id": 6,
@@ -105,14 +117,16 @@
             "composition": {
                 "Hydrogen": "82.5",
                 "Helium": "15.2",
-                "Methane": "2.3"    
+                "Methane": "2.3"
             },
             "temperature": "-195",
             "orbitPeriod": "84 years",
             "volumeInEarths": "63",
             "radius": "25362",
             "massInEarth": "14.54"
-        }
+        },
+        "shortInfoColor": "#4682B4",
+        "longInfoColor": "#00FFFF"
     },
     {
         "id": 7,
@@ -128,7 +142,9 @@
             "volumeInEarths": "58",
             "radius": "24622",
             "massInEarth": "17"
-        }
+        },
+        "shortInfoColor": "#00008B",
+        "longInfoColor": "#7FFFD4"
     },
     {
         "id": 8,
@@ -136,13 +152,15 @@
         "data": {
             "composition": {
                 "Nitrogen": "90",
-                "Other": "10"    
+                "Other": "10"
             },
             "temperature": "-240",
             "orbitPeriod": "248 years",
             "volumeInEarths": "0.702",
             "radius": "1188.3",
             "massInEarth": "0.01303"
-        }
-    }  
+        },
+        "shortInfoColor": "#8B4513",
+        "longInfoColor": "#A52A2A"
+    }
 ]

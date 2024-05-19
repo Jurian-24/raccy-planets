@@ -1,9 +1,9 @@
 <template>
-    <div class="fixed top-0 left-0 h-screen w-16 m-0 
-                flex flex-col 
-              bg-gray-900 text-white shadow-lg"
-        
+    <div class="top-0 left-0 h-screen w-48 m-0
+                flex flex-col
+              bg-gray-900 text-white shadow-lg bg-[url('/assets/banners/night-sky.jpeg')]"
     >
+        <h1 class="justify-center text-center mt-4 font-bold">RACCY PLANETS</h1>
         <router-link
             v-for="planet in planets"
             :key="planet.id"
@@ -14,9 +14,9 @@
         >
         </SideBarIcon>
         </router-link>
-        
+
     </div>
-    
+
 </template>
 
 <script>
